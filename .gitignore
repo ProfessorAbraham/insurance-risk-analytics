@@ -192,4 +192,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-data/*
+data/*MachineLearningRating_v3.txt
