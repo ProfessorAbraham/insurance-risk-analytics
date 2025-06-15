@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = /content/insurance-risk-analytics/dvc_storage
